@@ -1,0 +1,16 @@
+{
+  "name": "Qwixx - Het snelle dobbelspel",
+  "short_name": "Qwixx",
+  "description": "Speel Qwixx online - het snelle dobbelspel met meerdere varianten, AI-tegenstanders en advies-modus.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#facc15",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
